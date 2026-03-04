@@ -203,7 +203,7 @@ deno run --allow-net server.ts
 
 ## 📬 Контакты
 
-Если остались вопросы, пиши учителю <a href="https://t.me/universe_science_studio">t.me/universe_science_studio</a>.
+Если остались вопросы, пиши учителю <a href="https://t.me/universe_science_studio" target="_blank" rel="noopener noreferrer">t.me/universe_science_studio</a>.
 
 
 
